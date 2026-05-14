@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harun's Daily Briefing</title>
+    <link>https://YOUR-GITHUB-USERNAME.github.io/daily-briefing</link>
+    <atom:link href="https://YOUR-GITHUB-USERNAME.github.io/daily-briefing/podcast.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <description>A personal daily news briefing covering AI and tech, business and markets, marketing and DTC, and world news.</description>
+    <itunes:author>Harun</itunes:author>
+    <itunes:summary>A personal daily news briefing covering AI and tech, business and markets, marketing and DTC, and world news.</itunes:summary>
+    <itunes:owner><itunes:name>Harun</itunes:name><itunes:email>harun@growthhit.com</itunes:email></itunes:owner>
+    <itunes:image href="https://YOUR-GITHUB-USERNAME.github.io/daily-briefing/cover.jpg" />
+    <itunes:category text="News" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Thu, 14 May 2026 17:02:54 +0000</lastBuildDate>
+    <item>
+      <title>May 14, 2026 — OpenAI's EU cyber model, Meta passes Google in ad revenue, Trump-Xi summit</title>
+      <description><![CDATA[Anthropic ships autonomous agents and OpenAI gives the EU access to its cyber model while Google embeds Gemini deeper into Android. Markets sit at records on AI capex even as inflation runs hot and Warsh takes the Fed. Meta is on track to pass Google in worldwide ad revenue, iOS 26 makes tracking harder, and the Trump-Xi summit produces a fragile detente over the Strait of Hormuz.]]></description>
+      <pubDate>Thu, 14 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://YOUR-GITHUB-USERNAME.github.io/daily-briefing/episodes/2026-05-14.mp3" length="12541657" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260514</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>22:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
