@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harun's Daily Briefing</title>
-    <link>https://YOUR-GITHUB-USERNAME.github.io/daily-briefing</link>
-    <atom:link href="https://YOUR-GITHUB-USERNAME.github.io/daily-briefing/podcast.xml" rel="self" type="application/rss+xml" />
+    <link>https://harun-oss.github.io/personal-stuff</link>
+    <atom:link href="https://harun-oss.github.io/personal-stuff/podcast.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     <description>A personal daily news briefing covering AI and tech, business and markets, marketing and DTC, and world news.</description>
     <itunes:author>Harun</itunes:author>
     <itunes:summary>A personal daily news briefing covering AI and tech, business and markets, marketing and DTC, and world news.</itunes:summary>
     <itunes:owner><itunes:name>Harun</itunes:name><itunes:email>harun@growthhit.com</itunes:email></itunes:owner>
-    <itunes:image href="https://YOUR-GITHUB-USERNAME.github.io/daily-briefing/cover.jpg" />
+    <itunes:image href="https://harun-oss.github.io/personal-stuff/cover.jpg" />
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 15 May 2026 09:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 10:50:01 +0000</lastBuildDate>
     <item>
-      <title>May 15, 2026 — Mythos standoff, S&amp;P at record highs, Meta passes Google</title>
-      <description><![CDATA[Anthropic holds back Mythos cyber model while OpenAI ships GPT-5.5-Cyber to EU partners. Markets print fresh records on Beijing summit deliverables despite a hot PPI. Meta overtakes Google in worldwide ad revenue as AI-driven retail traffic soars 393 percent.]]></description>
+      <title>May 15, 2026 — Anthropic restricts Mythos, indexes hit records, iOS 26 hits attribution</title>
+      <description><![CDATA[Anthropic limits its new Claude Mythos Preview to vetted enterprises over cybersecurity risk. The S&P 500, Nasdaq, and Dow all closed at record highs on 25% earnings growth and the H200 export thaw. iOS 26's fingerprinting protection is materially degrading default Meta and Google attribution for DTC brands.]]></description>
       <pubDate>Fri, 15 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://YOUR-GITHUB-USERNAME.github.io/daily-briefing/episodes/2026-05-15.mp3" length="9699413" type="audio/mpeg" />
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-15.mp3" length="9920723" type="audio/mpeg" />
       <guid isPermaLink="false">briefing-20260515</guid>
       <itunes:author>Harun</itunes:author>
-      <itunes:duration>20:12</itunes:duration>
+      <itunes:duration>20:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
