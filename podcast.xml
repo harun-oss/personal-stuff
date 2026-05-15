@@ -13,15 +13,15 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 14 May 2026 17:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 09:09:52 +0000</lastBuildDate>
     <item>
-      <title>May 14, 2026 — OpenAI's EU cyber model, Meta passes Google in ad revenue, Trump-Xi summit</title>
-      <description><![CDATA[Anthropic ships autonomous agents and OpenAI gives the EU access to its cyber model while Google embeds Gemini deeper into Android. Markets sit at records on AI capex even as inflation runs hot and Warsh takes the Fed. Meta is on track to pass Google in worldwide ad revenue, iOS 26 makes tracking harder, and the Trump-Xi summit produces a fragile detente over the Strait of Hormuz.]]></description>
-      <pubDate>Thu, 14 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://YOUR-GITHUB-USERNAME.github.io/daily-briefing/episodes/2026-05-14.mp3" length="12541657" type="audio/mpeg" />
-      <guid isPermaLink="false">briefing-20260514</guid>
+      <title>May 15, 2026 — Mythos standoff, S&amp;P at record highs, Meta passes Google</title>
+      <description><![CDATA[Anthropic holds back Mythos cyber model while OpenAI ships GPT-5.5-Cyber to EU partners. Markets print fresh records on Beijing summit deliverables despite a hot PPI. Meta overtakes Google in worldwide ad revenue as AI-driven retail traffic soars 393 percent.]]></description>
+      <pubDate>Fri, 15 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://YOUR-GITHUB-USERNAME.github.io/daily-briefing/episodes/2026-05-15.mp3" length="9699413" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260515</guid>
       <itunes:author>Harun</itunes:author>
-      <itunes:duration>22:16</itunes:duration>
+      <itunes:duration>20:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
