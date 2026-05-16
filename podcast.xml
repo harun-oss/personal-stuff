@@ -13,7 +13,18 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 15 May 2026 10:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 03:19:08 +0000</lastBuildDate>
+    <item>
+      <title>May 16, 2026 — Anthropic's 80x growth, Cerebras IPO, Strait of Hormuz</title>
+      <description><![CDATA[Anthropic's eighty times quarterly revenue growth forces a compute deal with SpaceXAI's Colossus data center. Cerebras surges sixty-eight percent in the biggest tech IPO since Uber. Markets sell off Friday as the Trump-Xi summit disappoints and Treasury yields spike on Strait of Hormuz tensions.]]></description>
+      <pubDate>Sat, 16 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-16.mp3" length="11494548" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260516</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>23:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 15, 2026 — Anthropic restricts Mythos, indexes hit records, iOS 26 hits attribution</title>
       <description><![CDATA[Anthropic limits its new Claude Mythos Preview to vetted enterprises over cybersecurity risk. The S&P 500, Nasdaq, and Dow all closed at record highs on 25% earnings growth and the H200 export thaw. iOS 26's fingerprinting protection is materially degrading default Meta and Google attribution for DTC brands.]]></description>
