@@ -13,15 +13,15 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 18 May 2026 03:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 12:29:09 +0000</lastBuildDate>
     <item>
-      <title>May 18, 2026 — Anthropic Overtakes OpenAI, Nvidia Earnings in Focus</title>
-      <description><![CDATA[Anthropic surpasses OpenAI in business adoption with 80x revenue growth, Project Glasswing's cybersecurity play, and the Colossus 1 compute deal. Markets await Nvidia earnings Wednesday while oil-driven inflation kills Fed rate cut hopes, and DTC performance marketers face a structural CAC reckoning.]]></description>
+      <title>May 18, 2026 — Nvidia week, Project Glasswing, and the DTC reset</title>
+      <description><![CDATA[Nvidia earnings set the tone for the AI trade as the Fed leadership changes hands. Anthropic gates its Mythos Preview model behind Project Glasswing while OpenAI launches its Frontier enterprise platform. Plus, the DTC unit economics shift and the geopolitical risks now moving oil.]]></description>
       <pubDate>Mon, 18 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-18.mp3" length="10980249" type="audio/mpeg" />
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-18.mp3" length="9567129" type="audio/mpeg" />
       <guid isPermaLink="false">briefing-20260518</guid>
       <itunes:author>Harun</itunes:author>
-      <itunes:duration>22:52</itunes:duration>
+      <itunes:duration>19:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
