@@ -13,7 +13,18 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 17 May 2026 03:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 03:16:51 +0000</lastBuildDate>
+    <item>
+      <title>May 18, 2026 — Anthropic Overtakes OpenAI, Nvidia Earnings in Focus</title>
+      <description><![CDATA[Anthropic surpasses OpenAI in business adoption with 80x revenue growth, Project Glasswing's cybersecurity play, and the Colossus 1 compute deal. Markets await Nvidia earnings Wednesday while oil-driven inflation kills Fed rate cut hopes, and DTC performance marketers face a structural CAC reckoning.]]></description>
+      <pubDate>Mon, 18 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-18.mp3" length="10980249" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260518</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>22:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 17, 2026 — Mythos vs Daybreak, Iran inflation, iOS 26 attribution</title>
       <description><![CDATA[Anthropic's Claude Mythos cybersecurity model faces off against OpenAI Daybreak as the AI arms race accelerates. Markets pulled back Friday on Iran inflation fears and a lukewarm Trump-Xi summit, while iOS 26 fingerprinting changes deliver the biggest DTC attribution disruption since iOS 14.]]></description>
