@@ -13,7 +13,31 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 18 May 2026 12:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 03:19:46 +0000</lastBuildDate>
+    <item>
+      <title>May 19, 2026 — Anthropic tops OpenAI, Iran oil spike, DTC CAC crisis</title>
+      <description><![CDATA[Today's briefing:
+• Anthropic in talks to raise fifty billion dollars at a valuation topping OpenAI, plus ten new financial services agents
+• Trump heads to Beijing for first US presidential visit to China since twenty seventeen
+• DTC customer acquisition costs up forty to sixty percent — first-order economics are broken
+• Fed holds eight to four, Brent crude near one hundred and twenty dollars per barrel
+• World's first commercial orbital outpost launches this month
+
+Sections:
+00:00 Open
+00:45 AI & Tech
+10:00 World News
+14:00 DTC & Ecommerce
+18:00 Markets
+21:00 Science]]></description>
+      <pubDate>Tue, 19 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-19.mp3" length="10661764" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260519</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>22:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 18, 2026 — Nvidia week, Project Glasswing, and the DTC reset</title>
       <description><![CDATA[Nvidia earnings set the tone for the AI trade as the Fed leadership changes hands. Anthropic gates its Mythos Preview model behind Project Glasswing while OpenAI launches its Frontier enterprise platform. Plus, the DTC unit economics shift and the geopolitical risks now moving oil.]]></description>
