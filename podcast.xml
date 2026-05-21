@@ -13,7 +13,31 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 20 May 2026 03:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 03:18:02 +0000</lastBuildDate>
+    <item>
+      <title>May 21, 2026 — Anthropic's secret model, Iran blockade, SpaceX IPO</title>
+      <description><![CDATA[Today's briefing:
+• Anthropic releases Claude Mythos, its most powerful model, with access restricted to a cybersecurity consortium
+• US naval blockade of Iran extended indefinitely, Brent crude near one hundred and twenty dollars per barrel
+• Shopify Agentic Storefronts go live on ChatGPT and Gemini, enabling direct purchases from AI interfaces
+• Nvidia beats Q1 estimates; SpaceX files for a seventy-five billion dollar IPO at a one point seven five trillion dollar valuation
+• Astronomers confirm 118 new exoplanets using machine learning on NASA satellite data
+
+Sections:
+00:00 Open
+00:45 AI & Tech
+09:30 World News
+14:30 DTC & Ecommerce
+19:00 Markets
+22:00 Science]]></description>
+      <pubDate>Thu, 21 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-21.mp3" length="10711084" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260521</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>22:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 20, 2026 — Meta's Muse Spark, Trump-Xi summit, Fed's Warsh era begins</title>
       <description><![CDATA[Today's briefing:
