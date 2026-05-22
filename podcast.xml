@@ -13,7 +13,31 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 21 May 2026 03:18:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:16:15 +0000</lastBuildDate>
+    <item>
+      <title>May 22, 2026 — Anthropic's zero-day AI, Trump-Xi deals, AI shopping surge</title>
+      <description><![CDATA[Today's briefing:
+• Anthropic's Claude Mythos autonomously finds thousands of zero-days in every major OS and browser
+• Trump-Xi Beijing summit produces 27 billion dollars in trade commitments amid disputed details
+• AI shopping referrals up 1,200% — now a real acquisition channel for DTC brands
+• Nvidia posts record 81.6 billion dollar quarter, up 85% year over year
+• Tandem perovskite solar cells hit 34% efficiency, resetting clean energy math
+
+Sections:
+00:00 Open
+00:45 AI & Tech
+11:30 World News
+16:00 DTC & Ecommerce
+19:30 Markets
+21:00 Science]]></description>
+      <pubDate>Fri, 22 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-22.mp3" length="10490401" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260522</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>21:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 21, 2026 — Anthropic's secret model, Iran blockade, SpaceX IPO</title>
       <description><![CDATA[Today's briefing:
