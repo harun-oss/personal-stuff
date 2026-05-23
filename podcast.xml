@@ -13,7 +13,31 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 22 May 2026 03:16:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 03:17:35 +0000</lastBuildDate>
+    <item>
+      <title>May 23, 2026 — OpenAI files for IPO, agents go enterprise, D T C at a crossroads</title>
+      <description><![CDATA[Today's briefing:
+• OpenAI confidentially files for IPO targeting one-trillion-dollar valuation
+• US and China meet in Beijing; Iran blockade disrupts global energy markets
+• Shopify launches agentic storefronts dashboard; AI referral conversions up 1200%
+• Equities strong on 15% earnings growth; Fed on hold, BoJ hiking
+• Tandem perovskite solar cells hit 34% efficiency, a new world record
+
+Sections:
+00:00 Open
+00:45 AI and Tech
+10:30 World News
+15:00 DTC and Ecommerce
+18:30 Markets
+20:30 Science]]></description>
+      <pubDate>Sat, 23 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-23.mp3" length="10467622" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260523</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>21:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 22, 2026 — Anthropic's zero-day AI, Trump-Xi deals, AI shopping surge</title>
       <description><![CDATA[Today's briefing:
