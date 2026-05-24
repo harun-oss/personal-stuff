@@ -13,7 +13,31 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 23 May 2026 03:17:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 03:19:21 +0000</lastBuildDate>
+    <item>
+      <title>May 24, 2026 — Meta AI flagship, Iran energy shock, DTC AI traffic</title>
+      <description><![CDATA[Today's briefing:
+• Meta launches Muse Spark, its first flagship model under Alexandr Wang's Superintelligence Labs
+• Iran conflict becomes a global energy shock, reshaping inflation and central bank policy
+• AI referral traffic up 1,200% — tracking it is now urgent for ecommerce brands
+• Fed holds at 8-4 vote split; gasoline up 52% since Iran conflict escalated
+• Nanoparticles reverse Alzheimer's symptoms in mice — a different mechanism than prior attempts
+
+Sections:
+00:00 Open
+01:15 AI & Tech
+11:00 World News
+15:30 DTC & Ecommerce
+19:00 Markets
+21:45 Science]]></description>
+      <pubDate>Sun, 24 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-24.mp3" length="10762075" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260524</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>22:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 23, 2026 — OpenAI files for IPO, agents go enterprise, D T C at a crossroads</title>
       <description><![CDATA[Today's briefing:
