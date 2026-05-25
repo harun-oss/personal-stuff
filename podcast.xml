@@ -13,7 +13,31 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 24 May 2026 03:19:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 03:13:01 +0000</lastBuildDate>
+    <item>
+      <title>May 25, 2026 — Anthropic agents JV, Orban falls, Shopify x ChatGPT live</title>
+      <description><![CDATA[Today's briefing:
+• Anthropic launches Claude Managed Agents and a one point five billion dollar enterprise JV with Blackstone and Goldman Sachs
+• Hungary ends sixteen years of Orban as Peter Magyar wins in a landslide with major EU and Ukraine implications
+• Shopify x ChatGPT integration goes live, creating a new transactional commerce channel
+• Fed and ECB both hold, Brent crude at one hundred and five dollars, Treasury yields at four point five six percent
+• Tandem perovskite solar cells hit thirty-four percent efficiency, rewriting clean energy economics
+
+Sections:
+00:00 Open
+00:45 AI and Tech
+11:15 World News
+17:00 DTC and Ecommerce
+20:30 Markets
+22:00 Science]]></description>
+      <pubDate>Mon, 25 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-25.mp3" length="10648599" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260525</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>22:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 24, 2026 — Meta AI flagship, Iran energy shock, DTC AI traffic</title>
       <description><![CDATA[Today's briefing:
