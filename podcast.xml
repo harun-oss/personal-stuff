@@ -13,7 +13,32 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 25 May 2026 03:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 03:13:10 +0000</lastBuildDate>
+    <item>
+      <title>May 26, 2026 — Anthropic finds 10K flaws, OpenAI files for IPO, Hungary resets</title>
+      <description><![CDATA[Today's briefing:
+• Anthropic's Claude Mythos finds over ten thousand critical security vulnerabilities in major software
+• OpenAI files confidential IPO prospectus targeting up to one trillion dollars valuation
+• Hungary's Peter Magyar sworn in as PM, ending sixteen years of Orban rule
+• US-Iran blockade diplomacy keeps energy markets elevated; S and P five hundred hits record highs
+• Nanoparticles reverse Alzheimer's symptoms in mice in a first-of-kind dual-mechanism study
+
+Sections:
+00:00 Open
+00:45 AI and Tech
+11:00 World News
+17:00 DTC and Ecommerce
+21:00 Markets
+23:30 Science
+25:30 Close]]></description>
+      <pubDate>Tue, 26 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-26.mp3" length="10565007" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260526</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>22:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 25, 2026 — Anthropic agents JV, Orban falls, Shopify x ChatGPT live</title>
       <description><![CDATA[Today's briefing:
