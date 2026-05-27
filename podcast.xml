@@ -13,7 +13,31 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 26 May 2026 03:13:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 03:19:40 +0000</lastBuildDate>
+    <item>
+      <title>May 27, 2026 — Anthropic agents live, OpenAI hits 25B, Trump-Xi summit results</title>
+      <description><![CDATA[Today's briefing:
+• Anthropic ships managed agents with dreaming, outcomes, and multiagent orchestration, plus ten finance vertical agents
+• Trump-Xi Beijing summit wraps with limited concrete commitments on trade and tariffs
+• OpenAI Instant Checkout converts at 18% for Shopify merchants inside ChatGPT
+• Fed holds 8-4, ECB holds, Australia hikes third consecutive time; oil elevated on Hormuz risk
+• Tandem perovskite solar cells hit 34% efficiency, reshaping data center energy economics
+
+Sections:
+00:00 Open
+00:45 AI and Tech
+11:00 World News
+15:30 DTC and Ecommerce
+19:00 Markets
+21:00 Science]]></description>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-27.mp3" length="10707113" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260527</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>22:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 26, 2026 — Anthropic finds 10K flaws, OpenAI files for IPO, Hungary resets</title>
       <description><![CDATA[Today's briefing:
