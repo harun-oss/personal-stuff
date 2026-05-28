@@ -13,7 +13,31 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 27 May 2026 03:19:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 03:21:36 +0000</lastBuildDate>
+    <item>
+      <title>May 28, 2026 — Anthropic Mythos flags 23K flaws, Hungary flips, Shopify $100B</title>
+      <description><![CDATA[Today's briefing:
+• Anthropic's Claude Mythos flags 23,000+ critical security vulnerabilities before public release
+• Hungary ends 16 years of Orbán rule; Péter Magyar wins election
+• Shopify posts second consecutive $100B+ GMV quarter; DTC retention crisis deepens
+• Fed on hold, ECB pauses, Bank of England signals cut; oil elevated on Iran tensions
+• Japanese researchers find vitamin K compound may regenerate brain neurons
+
+Sections:
+00:00 Open
+01:00 AI & Tech
+12:00 World News
+16:00 DTC & Ecommerce
+20:00 Markets
+21:00 Science]]></description>
+      <pubDate>Thu, 28 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-28.mp3" length="10275152" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260528</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>21:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 27, 2026 — Anthropic agents live, OpenAI hits 25B, Trump-Xi summit results</title>
       <description><![CDATA[Today's briefing:
