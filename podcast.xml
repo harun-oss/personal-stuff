@@ -13,7 +13,31 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 28 May 2026 03:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 03:25:19 +0000</lastBuildDate>
+    <item>
+      <title>May 29, 2026 — Claude agents self-improve, Hormuz crisis, AI commerce</title>
+      <description><![CDATA[Today's briefing:
+• Anthropic ships Dreaming: Claude agents now self-improve between sessions; Netflix running multi-agent orchestration in production
+• Iran war closes Strait of Hormuz — IEA calls it largest oil supply disruption in history; 14M barrels/day shut in
+• Shopify Q1: AI traffic to stores up 8x YoY, AI shopping orders up 13x YoY
+• Fed holds rates 8-4; Brent crude ~$110/bbl; ECB expected to hike in June
+• Perovskite solar cells hit 34% efficiency vs 24% for silicon — commercial scale 3-5 years out
+
+Sections:
+00:00 Open
+00:35 AI & Tech
+09:00 World News
+14:00 DTC & Ecommerce
+18:00 Markets
+20:30 Science]]></description>
+      <pubDate>Fri, 29 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-29.mp3" length="11386297" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260529</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>23:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 28, 2026 — Anthropic Mythos flags 23K flaws, Hungary flips, Shopify $100B</title>
       <description><![CDATA[Today's briefing:
