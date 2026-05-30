@@ -13,7 +13,31 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 29 May 2026 03:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 03:19:04 +0000</lastBuildDate>
+    <item>
+      <title>May 30, 2026 — Oil drops on Iran talks, Google I/O goes all-in AI</title>
+      <description><![CDATA[Today's briefing:
+• OpenAI and Google ship new models; Anthropic adds memory and multi-agent tools
+• Iran ceasefire talks accelerate, oil down nearly 20% from 2026 peak
+• DTC brands now losing money on first order; TikTok Shop and email economics
+• US 30-year Treasury yield hits 19-year high at 5.2%
+• Perovskite solar cells break 34% efficiency record
+
+Sections:
+00:00 Open
+00:45 AI & Tech
+11:30 World News
+15:15 DTC & Ecommerce
+19:10 Markets
+20:55 Science]]></description>
+      <pubDate>Sat, 30 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-30.mp3" length="10531361" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260530</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>21:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 29, 2026 — Claude agents self-improve, Hormuz crisis, AI commerce</title>
       <description><![CDATA[Today's briefing:
