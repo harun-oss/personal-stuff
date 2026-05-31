@@ -13,7 +13,31 @@
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 30 May 2026 03:19:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 03:16:24 +0000</lastBuildDate>
+    <item>
+      <title>May 31, 2026 — GPT-5.5 launches, oil hits $104, Shopify ChatGPT store live</title>
+      <description><![CDATA[Today's briefing:
+• OpenAI ships GPT-5.5 as new ChatGPT default; launches Frontier enterprise agent platform
+• Iran threatens Strait of Hormuz closure; oil reaches $104/barrel
+• Shopify extends B2B features to all merchants; ChatGPT commerce integration goes live
+• Fed on hold through 2026; global GDP growth slips to 3.2%
+• Texas A&M nasal spray reverses brain aging in early research
+
+Sections:
+00:00 Open
+00:45 AI & Tech
+06:45 World News
+09:45 DTC & Ecommerce
+12:45 Markets
+14:45 Science & Research]]></description>
+      <pubDate>Sun, 31 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://harun-oss.github.io/personal-stuff/episodes/2026-05-31.mp3" length="7881500" type="audio/mpeg" />
+      <guid isPermaLink="false">briefing-20260531</guid>
+      <itunes:author>Harun</itunes:author>
+      <itunes:duration>16:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 30, 2026 — Oil drops on Iran talks, Google I/O goes all-in AI</title>
       <description><![CDATA[Today's briefing:
